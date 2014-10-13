@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.htmlesc.service').factory('htmlEsc', function () {
+angular.module('cc.htmlesc.service', []).factory('htmlEsc', function () {
     function htmlDecode(string) {
         return angular.element('<div/>').html(string).text();
     }
