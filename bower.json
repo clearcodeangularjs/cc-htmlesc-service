@@ -1,11 +1,11 @@
 {
-	"name": "htmlEscape-service",
+	"name": "cc-htmlesc-service",
 	"description": "Html escape service.",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
 	],
 	"version": "1.0.0",
-	"main": "utils.js",
+	"main": "script/services/utils.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
