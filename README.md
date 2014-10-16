@@ -4,7 +4,7 @@ Clearcode HTML decode Service
 This service consists of methods that helps with escaping and unescaping HTML.
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-htmlesc-service --save ```
 
 
 Usage
